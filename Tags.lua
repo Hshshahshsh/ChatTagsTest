@@ -3,7 +3,7 @@ return {
     TagText = "VAPE OWNER",
     TagColor = Color3.fromRGB(70,70,255)
   },
-  [""] = {
+  ["HksbsAjshCK"] = {
     TagText = "BLACK MONKEY",
     TagColor = Color3.fromRGB(0,255,200)
   },
